@@ -1,0 +1,11 @@
+.navbar{
+
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.limage{
+    display: flex;
+    justify-content: space-between;
+}
